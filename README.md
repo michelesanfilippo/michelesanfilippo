@@ -1,8 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Michele.</h1>
 <h3 align="center">A back-end software engineer from Italy.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michelesanfilippo" alt="michelesanfilippo" /></a> </p>
-
 - 🔭 I’m currently working on **banking and insurance projects**
 
 - 👨‍💻 All my infos are available at [sanfilippomichele.netlify.com](sanfilippomichele.netlify.com)
