@@ -3,8 +3,8 @@
 
 - 🔭 I’m currently working on **banking and insurance projects**
 
-- 👨‍💻 All my infos are available at
-[michelesanfilippo.github.io](michelesanfilippo.github.io)
+- 👨‍💻 All my infos are available
+[here](michelesanfilippo.github.io)
 
 - 📫 How to reach me **michelesanfilippo01@gmail.com**
 
