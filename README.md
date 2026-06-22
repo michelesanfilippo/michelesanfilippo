@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Michele.</h1>
 <h3 align="center">A back-end software engineer from Italy.</h3>
 
-- 🔭 I’m currently working on **banking and insurance projects**
+- 🔭 I’m currently working on **financial services projects**
 
 - 👨‍💻 Check my infos at
 **michelesanfilippo.github.io**
