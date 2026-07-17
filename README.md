@@ -34,6 +34,13 @@
     <img src="https://skillicons.dev/icons?i=java,spring,hibernate,idea,eclipse,vscode,aws,postgresql,mongodb,mysql,php,html,css,js,ts,react,nodejs,bootstrap,py,docker,kubernetes,git,stackoverflow,jenkins,aws,rabbitmq,&perline=10" /></a>
 </p>
 
+<br/>
+<br/>
+<p align="center">
+  <a href="https://buymeacoffee.com/michelesanc" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" />
+  </a>
+</p>
 
 <!--
 **michelesanfilippo/michelesanfilippo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
