@@ -24,7 +24,7 @@
 <br/>
 <!-- BANNER -->
 <p align="center">
-<img  src="/workspaces/michelesanfilippo/assets/octoGH.png" width="240" height="175"/>
+<img  src="assets/octoGH.png" width="240" height="175"/>
 </p>
 <br/>
 
