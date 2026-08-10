@@ -8,7 +8,7 @@
 
 
 <p align="center">
-👩🏻‍💻 I’m currently working on financial services projects<br/>
+👩🏻‍💻 I’m currently working on financial service projects<br/>
 🤖 agentic AI enthusiast<br/>
 ℹ️ Check my infos at: michelesanfilippo.github.io<br/>
 📫 How to reach me michelesanfilippo01@gmail.com
