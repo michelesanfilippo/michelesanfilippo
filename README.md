@@ -9,7 +9,7 @@
 
 <p align="center">
 👩🏻‍💻 I’m currently working on financial service projects<br/>
-🤖 agentic AI Developer, Claude Certified: <a href="https://www.credly.com/badges/15c55f86-ae04-458a-959d-8c55f443235a/public_url" target="_blank">Verify</a><br/>
+🤖 Agentic AI Developer, Claude Certified: <a href="https://www.credly.com/badges/15c55f86-ae04-458a-959d-8c55f443235a/public_url" target="_blank">Verify</a><br/>
 ℹ️ Check my infos at: michelesanfilippo.github.io<br/>
 📫 How to reach me michelesanfilippo01@gmail.com
 </p>
