@@ -9,13 +9,13 @@
 
 <p align="center">
 👩🏻‍💻 I’m currently working on financial service projects<br/>
-🤖 agentic AI enthusiast<br/>
+🤖 agentic AI Developer, Claude Certified: [Verify](https://www.credly.com/badges/15c55f86-ae04-458a-959d-8c55f443235a/public_url)<br/>
 ℹ️ Check my infos at: michelesanfilippo.github.io<br/>
 📫 How to reach me michelesanfilippo01@gmail.com
 </p>
 
 
-<h3 align="center">Connect with me (clickable)</h3>
+<h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://linkedin.com/in/michele-sanfilippo-b22404157" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michele-sanfilippo-b22404157" height="30" width="40" /></a>
 <a href="https://instagram.com/michele_sanfi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="michele_sanfi" height="30" width="40" /></a>
